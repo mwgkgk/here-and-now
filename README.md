@@ -1,2 +1,1 @@
-# here-and-now
-Here and now!
+HERE AND NOW
